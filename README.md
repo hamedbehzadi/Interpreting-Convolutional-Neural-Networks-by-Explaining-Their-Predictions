@@ -22,4 +22,10 @@ We consider variants of our method where 5, 10, and 25 top filter indices are se
 ![Screenshot from 2024-04-19 10-46-11](https://github.com/hamedbehzadi/Interpreting-Convolutional-Neural-Networks-by-Explaining-Their-Predictions/assets/45251957/2904839f-0e65-43c0-9083-df6a91b1f381)
 
 # Implemented Code
+Requires original set of images in data/Images
 
+Run files in order as the numbers in their name suggest.
+
+Comparison of filters can be done using the vebi_1,2,3 found in vebi comparison/resnet and vebi comparison/vgg. Generating filters for IvE-bARM can be done using generate_filters() function in the jupyter notebook.
+
+original score and filter pickle files are provided
