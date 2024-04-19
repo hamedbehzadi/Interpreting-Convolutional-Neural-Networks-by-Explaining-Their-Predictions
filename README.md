@@ -29,3 +29,10 @@ Run files in order as the numbers in their name suggest.
 Comparison of filters can be done using the vebi_1,2,3 found in vebi comparison/resnet and vebi comparison/vgg. Generating filters for IvE-bARM can be done using generate_filters() function in the jupyter notebook.
 
 original score and filter pickle files are provided
+
+### Setup
+Install follwoing libraries
+Python > 3.8
+Pytorch > 2.2
+openCV > 3.10
+Matplotlib > 3.8
