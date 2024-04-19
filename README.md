@@ -39,3 +39,12 @@ Install follwoing libraries
 >Matplotlib > 3.8
 > spams
 > ```
+# Reference
+@inproceedings{meynen2023interpreting,
+  title={Interpreting Convolutional Neural Networks by Explaining Their Predictions},
+  author={Meynen, Toon and Behzadi-Khormouji, Hamed and Oramas, Jos{\'e}},
+  booktitle={2023 IEEE International Conference on Image Processing (ICIP)},
+  pages={1685--1689},
+  year={2023},
+  organization={IEEE}
+}
