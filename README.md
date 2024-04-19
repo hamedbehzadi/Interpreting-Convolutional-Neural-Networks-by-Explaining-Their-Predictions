@@ -32,7 +32,10 @@ original score and filter pickle files are provided
 
 ### Setup
 Install follwoing libraries
-Python > 3.8
-Pytorch > 2.2
-openCV > 3.10
-Matplotlib > 3.8
+> ```plaintext
+> Python > 3.8
+> Pytorch > 2.2
+> openCV > 3.10
+>Matplotlib > 3.8
+> spams
+> ```
